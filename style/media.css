@@ -1,0 +1,9 @@
+@media (max-widh:1024px){
+    .container{
+        max-width: 1024px;
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+      
+      
+}
